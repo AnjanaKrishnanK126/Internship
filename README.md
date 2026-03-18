@@ -6,6 +6,7 @@ Internship Works @Twillight IT Solutions
 - Attended a session on Security and Compliance.
 - Learned concepts in data protection, access control, and secure coding practices.
 - Received an assignment on ORM (Object Relational Mapping) and FinTech and Healthcare Acts and Regulations.
+- Explored basics of Roboflow.
 
 # Session Attended:
 Topic: Security, Compliance and Secure Development Practices.
@@ -36,3 +37,4 @@ Key Learnings:
 - Learned how ORM helps in preventing SQL injection attacks.
 - Gained awareness of industry-specific regulations in FinTech and Healthcare.
 - Recognized the importance of compliance in real-world applications.
+- Learned fundamentals of object detection in computer vision.
