@@ -31,7 +31,7 @@ Topic: Security, Compliance and Secure Development Practices.
 - Overview of Healthcare laws and data protection rules.
 - Importance of adhering to legal standards in software development.
 
-- Key Learnings:
+Key Learnings:
 - Understood the concepts of application security.
 - Learned how ORM helps in preventing SQL injection attacks.
 - Gained awareness of industry-specific regulations in FinTech and Healthcare.
