@@ -52,7 +52,8 @@ Docker Volumes
   # Assignment
 - Study and explain different types of Docker volumes.
 - Identify which ports can be exposed in an application and how port mapping works.
-
+- Differentiate about authentication and authorisation.
+  
   # Key Learnings
 - Understood the difference between stateless and stateful containers.
 - Learned how Docker volumes ensure data persistence.
